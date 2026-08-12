@@ -71,3 +71,5 @@ elif random_rock_paper_scissors == scissors and user_choice == 2:
     print(f"You chose:\n{paper}")
     print(f"Computer chose:\n{scissors}")
     print("You Loose!")
+else:
+    print("You chose a wrong number!!")
