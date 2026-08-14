@@ -12,7 +12,5 @@ def jump():
     turn_right()
     move()
     turn_left()
-number = 6
-goal = at_goal()
 while at_goal() != True:
     jump()
