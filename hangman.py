@@ -1,8 +1,8 @@
 import random
 
-from hangman_words import word_list
-from hangman_art import logo
-from hangman_art import stages
+from hangman_words import word_list #--->You can find this module in my python resources repo
+from hangman_art import logo #---->You can find this module in my python resources repo
+from hangman_art import stages #--->You can find this module in my python resources repo
 lives = 6
 
 print(logo)
